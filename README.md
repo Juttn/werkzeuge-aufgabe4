@@ -1,6 +1,6 @@
-#Markdown Testing
+# Markdown Testing
 
-###Heading 2
+### Heading 2
 
 The European languages are members of the same family. Their separate existence is a myth. 
 For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, 
@@ -24,6 +24,6 @@ expensive translators.
   * Maecenas sodales elit et felis accumsan, vel blandit magna dapibus. 
 * Suspendisse sit amet finibus nisl. Nulla aliquet vulputate faucibus.
 
-######Sources for dummy-Texts
+###### Sources for dummy-Texts
 https://www.blindtextgenerator.com/lorem-ipsum - automatic!
 https://lipsum.com/ - automatic!
