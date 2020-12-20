@@ -25,5 +25,5 @@ expensive translators.
 * Suspendisse sit amet finibus nisl. Nulla aliquet vulputate faucibus.
 
 ###### Sources for dummy-Texts
-https://www.blindtextgenerator.com/lorem-ipsum - automatic!
-https://lipsum.com/ - automatic!
+https://www.blindtextgenerator.com/lorem-ipsum
+https://lipsum.com/
